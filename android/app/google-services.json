@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239691061250",
+    "firebase_url": "https://avfighters-8c344.firebaseio.com",
+    "project_id": "avfighters-8c344",
+    "storage_bucket": "avfighters-8c344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239691061250:android:e05ab29c7d32097c2eef1b",
+        "android_client_info": {
+          "package_name": "com.example.av_fighters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239691061250-v2mb8unt0vb9kcq164aakol973t0us52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJY2ZICumm-kuAxozK4qj8q-wiSogVZt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239691061250-v2mb8unt0vb9kcq164aakol973t0us52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
